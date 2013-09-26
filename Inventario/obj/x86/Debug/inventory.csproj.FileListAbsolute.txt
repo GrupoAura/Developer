@@ -1,0 +1,37 @@
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\bin\Debug\inventory.exe
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\bin\Debug\inventory.pdb
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.Form1.resources
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.exe
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.pdb
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\obj\x86\Debug\inventory.UserControl1.resources
+C:\Users\SamuelAura\AppData\Local\Temporary Projects\inventory\bin\Debug\inventory.exe.config
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.exe
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.pdb
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.csproj.GenerateResource.Cache
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Main.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\bin\Debug\inventory.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\bin\Debug\inventory.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Main.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Login.resources
+C:\Users\SamuelAura\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.csprojResolveAssemblyReference.cache
+C:\Users\SamuelAura\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.vistas.Login.resources
+C:\Users\SamuelAura\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.vistas.Intro.resources
+C:\Users\SamuelAura\documents\visual studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Vistas.Clientes.listClientes.resources
+C:\Users\SamuelAura\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.Vistas.Form1.resources
+C:\Users\SamuelAura\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\Debug\inventory.MDIParent1.resources
+C:\Users\SamuelAura\Documents\GitHub\Aura\inventory\inventory\bin\Debug\inventory.exe.config
+C:\Users\SamuelAura\Documents\GitHub\Aura\inventory\inventory\obj\x86\Debug\inventory.exe
+C:\Users\SamuelAura\Documents\GitHub\Aura\inventory\inventory\obj\x86\Debug\inventory.pdb
