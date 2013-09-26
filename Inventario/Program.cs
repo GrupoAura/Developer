@@ -8,7 +8,7 @@ namespace inventory
     static class Program
     {
         /// <summary>
-        /// Punto de entrada ....
+        /// Punto de entrada ....Modificado por mauricio
         /// </summary>
         [STAThread]
         static void Main()
